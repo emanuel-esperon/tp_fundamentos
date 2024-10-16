@@ -163,6 +163,6 @@ cython_debug/
 #.idea/
 
 #carpetas
-.venvTP
+.venvTP/
 
-#hola
+
