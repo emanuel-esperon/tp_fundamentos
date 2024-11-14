@@ -7,7 +7,7 @@
   Si no lo tiene instalado, puede descargarlo [acá.](https://www.python.org/downloads/)
 * Debe tener git instalado, puede verificar eso usando el comando 
 	> *git --version*<br>
-En caso de no tener git instalado, puede descargarlo [acá.](https://git-scm.com/downloads)
+  En caso de no tener git instalado, puede descargarlo [acá.](https://git-scm.com/downloads)
 * Se recomienda el uso de Visual Studio Code para la visualización del proyecto, ya que algunas explicaciones posteriores relacionadas con la ejecución se harán para usuarios de VSCode. Algunos pasos podrán variar en función del sistema operativo, ya que se redactaron teniendo Windows como base.
 
 ## Ejecutar el proyecto:
