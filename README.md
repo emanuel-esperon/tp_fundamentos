@@ -3,10 +3,10 @@
 ## Pre-requisitos:
 
 * Debe tener Python instalado y operativo en su sistema. Puede verificar esto usando en consola el comando:
-	  *python --version*<br>
+	  > *python --version*<br>
   Si no lo tiene instalado, puede descargarlo [acá.](https://www.python.org/downloads/)
-* Debe tener git instalado, puede verificar eso usando el comando 
-	> *git --version*<br>
+* Debe tener git instalado, puede verificar eso usando el comando  
+  `git --version`.  
   En caso de no tener git instalado, puede descargarlo [acá.](https://git-scm.com/downloads)
 * Se recomienda el uso de Visual Studio Code para la visualización del proyecto, ya que algunas explicaciones posteriores relacionadas con la ejecución se harán para usuarios de VSCode. Algunos pasos podrán variar en función del sistema operativo, ya que se redactaron teniendo Windows como base.
 
