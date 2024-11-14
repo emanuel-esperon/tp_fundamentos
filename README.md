@@ -4,7 +4,7 @@
 
 * Debe tener Python instalado y operativo en su sistema. Puede verificar esto usando en consola el comando:
 	  > *python --version*
-Si no lo tiene instalado, puede descargarlo [acá.](https://www.python.org/downloads/)
+  Si no lo tiene instalado, puede descargarlo [acá.](https://www.python.org/downloads/)
 * Debe tener git instalado, puede verificar eso usando el comando 
 	> *git --version*
 En caso de no tener git instalado, puede descargarlo [acá.](https://git-scm.com/downloads)
