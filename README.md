@@ -14,8 +14,8 @@ En caso de no tener git instalado, puede descargarlo [acá.](https://git-scm.com
 1. **Clonar el repositorio:**
 	* Seleccionar y abrir la carpeta donde se quiera alojar el proyecto (tenga en cuenta que el proyecto creará una nueva carpeta llamada 	"tp_fundamentos" que contendrá todos los archivos necesarios para la ejecución).
   	* Una vez dentro de la carpeta destino, haga click derecho y seleccione la opción "Open Git Bash here". Se abrirá una terminal en la 	que deberá escribir en orden los comandos:
-		  *git init*
-		  *git clone https://github.com/emanuel-esperon/tp_fundamentos*
+		 > *git init*
+		 > *git clone https://github.com/emanuel-esperon/tp_fundamentos*
 
 1. **Abrir el proyecto:** desde Visual Studio Code, seleccione la opción "Open Folder...". Busque y seleccione la carpeta "tp_fundamentos" recién creada.
 
