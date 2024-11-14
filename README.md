@@ -15,7 +15,7 @@
 
 3. **Crear un entorno virtual en la carpeta tp_fundamentos:** abra una nueva terminal en el VSCode y escriba el comando `python -m venv <nombre del entorno>`
 
-4. **Activar el entorno virtual:** en la misma terminal del VSCode, escriba `<nombre de su entorno>\Scripts\actívate`
+4. **Activar el entorno virtual:** en la misma terminal del VSCode, escriba `<nombre de su entorno>\Scripts\activate`
 
 5. **Instalar las librerías necesarias en el entorno virtual:** una vez activado el entorno virtual (en su terminal deberá aparecer entre paréntesis el nombre de su entorno virtual adelante de la ruta de la carpeta del proyecto), ejecute el comando `pip install -r requirements.txt`
 
