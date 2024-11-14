@@ -3,7 +3,7 @@
 ## Pre-requisitos:
 
 * Debe tener Python instalado y operativo en su sistema. Puede verificar esto usando en consola el comando:
-	  > *python --version*
+	  *python --version*<br>
   Si no lo tiene instalado, puede descargarlo [acá.](https://www.python.org/downloads/)
 * Debe tener git instalado, puede verificar eso usando el comando 
 	> *git --version*<br>
